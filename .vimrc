@@ -52,3 +52,4 @@ set laststatus=2
 set guifont=Liberation\ Mono\ for\ Powerline\ 10
 let g:airline_powerline_fonts = 1
 set number
+set incsearch
