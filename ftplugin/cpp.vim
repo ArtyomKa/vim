@@ -4,3 +4,5 @@ setlocal expandtab
 setlocal autoindent
 setlocal smarttab
 setlocal showmatch
+
+nnoremap <F7> :make<cr>
